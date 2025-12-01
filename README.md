@@ -1,14 +1,3 @@
-<!-- Banner / cabecera -->
-
-<div style="width: 100%; height: 300px; overflow: hidden; text-align: center;">
-  <img src="milenio_logo.png"
-       alt="Banner"
-       style="width: 100%; height: 100%; object-fit: cover; object-position: center;" />
-</div>
-
-
-<br>
-
 # Hola, soy **Milenio** 👋
 
 Desarrollador / Ingeniero Informático apasionado por el **Hardware**.
@@ -35,13 +24,6 @@ Desarrollador / Ingeniero Informático apasionado por el **Hardware**.
 
 
 ---
-
-## 📈 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagomilenio&show_icons=true&theme=radical)
-
----
-
 
 ## 🧾 Más sobre mí
 
