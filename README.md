@@ -1,7 +1,13 @@
 <!-- Banner / cabecera -->
-<div align="center">
-  <img src="https://www.litchfieldmotors.com/wp-content/uploads/w204_top_p-1700x850.jpg" alt="Banner" width="100%" />
+
+<div style="width: 100%; height: 300px; overflow: hidden; text-align: center;">
+  <img src="milenio_logo.png"
+       alt="Banner"
+       style="width: 100%; height: 100%; object-fit: cover; object-position: center;" />
 </div>
+
+
+<br>
 
 # Hola, soy **Milenio** 👋
 
