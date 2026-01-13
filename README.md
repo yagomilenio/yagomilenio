@@ -4,7 +4,7 @@ Desarrollador / Ingeniero Informático apasionado por el **Hardware**.
 
 - 🌱 Actualmente aprendiendo: **Protocolo CANBUS**  
 - 🔭 Trabajando en: **Red de almacenamiento p2p**  
-- ⚡ Dato curioso: **Fan de los sistemas Unix/BSD y de los Mercedes✨**
+- ⚡ Dato curioso: **Fan de los sistemas Unix/BSD**
 
 ---
 
